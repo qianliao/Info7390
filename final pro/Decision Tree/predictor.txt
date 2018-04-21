@@ -1,0 +1,8 @@
+tracker_id
+solo_WinRatio
+solo_Wins
+solo_KillDeathRatio
+solo_Rating
+solo_KillsPg
+solo_DamagePg
+solo_HealsPg
